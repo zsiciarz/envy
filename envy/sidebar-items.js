@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error","Types of errors that may result from failed attempts to deserialize a type from env vars"]],"fn":[["from_env","Deserializes a type based on information stored in env"],["from_iter","Deserializes a type based on an iterable of `(String, String)`"]],"type":[["Result","A type result type specific to `envy::Errors`"]]});
